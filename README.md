@@ -6,27 +6,27 @@ Here you can read what i learned and used for each project
 
 FirstProject: Applying the basics of python. What i learned: <b>Loops, Variables, Object types, input</b>
 
-EditCSV: Manipulating a CSV datafile. What i learned: Loading, editing and saving CSV files
+EditCSV: Manipulating a CSV datafile. What i learned: </b<Loading, editing and saving CSV files</b>
 
-WikipediaScrape: Scraping the amsterdam page of wikipedia and loading some of the data. What i learned: Webscraping
+WikipediaScrape: Scraping the amsterdam page of wikipedia and loading some of the data. What i learned: <b>Webscraping</b>
 
-RedditApi: Loading in comments from reddit using the API and analyzing some of the data. What i learned: Connecting and loading data through API's
+RedditApi: Loading in comments from reddit using the API and analyzing some of the data. What i learned: <b>Connecting and loading data through API's</b>
 
-WebScrapingBeautifulSoup: Scraping my old workplace website with beautifulsoup. What i learned: Webscraping with beautifulsoup
+WebScrapingBeautifulSoup: Scraping my old workplace website with beautifulsoup. What i learned: <b>Scraping with beautifulsoup</b>
 
-ExploreData : Analysing daily steps data to find correlations. What i learned: analyzing data, cleaning data, Matplotlib, seaborn, pandas
+ExploreData : Analysing daily steps data to find correlations. What i learned: <b>analyzing data, cleaning data, Matplotlib, seaborn, pandas</b>
 
-LinairReg : Predicting shares in social data. What i learned: Multipile linair reggresion, SKlearn, Scipy
+LinairReg : Predicting shares in social data. What i learned: <b>Multipile linair reggresion, SKlearn, Scipy</b>
 
-Supervised : Prediction fifa position in fifa player data. What i learned: Random forest model
+Supervised : Prediction fifa position in fifa player data. What i learned: <b>Random forest model</b>
 
-Unsupervised : Grouping humor types based on jokes data. What i learned: K-mean model
+Unsupervised : Grouping humor types based on jokes data. What i learned: <b>K-mean model</b>
 
-TextMining : Scraping Speakerphone reviews from amazon and using NLP to predict wether reviews are positive or negative. What i learned: Scraping through LXML, Vectorizing and encoding, Bag of words model, Naive bayes model
+TextMining : Scraping Speakerphone reviews from amazon and using NLP to predict wether reviews are positive or negative. What i learned: <b>Scraping through LXML, Vectorizing and encoding, Bag of words model, Naive bayes model</b>
 
-LearningNeural : Predicting which type of clothing based on pictures. What i learned: ANN, Tensorflow, Keras
+LearningNeural : Predicting which type of clothing based on pictures. What i learned: <b>ANN, Tensorflow, Keras</b>
 
-Pokeproject : Building a pokemon text game. What i learned: Object-oriented programming
+Pokeproject : Building a pokemon text game. What i learned: <b>Object-oriented programming</b>
 
 Currently learning : Flask
 Wanting to learn : Dash, Django
