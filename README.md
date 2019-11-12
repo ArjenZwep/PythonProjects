@@ -6,7 +6,7 @@ Here you can read what i learned and used for each project
 
 FirstProject: Applying the basics of python. What i learned: <b>Loops, Variables, Object types, input</b>
 
-EditCSV: Manipulating a CSV datafile. What i learned: </b<Loading, editing and saving CSV files</b>
+EditCSV: Manipulating a CSV datafile. What i learned: <b<Loading, editing and saving CSV files</b>
 
 WikipediaScrape: Scraping the amsterdam page of wikipedia and loading some of the data. What i learned: <b>Webscraping</b>
 
