@@ -29,4 +29,5 @@ LearningNeural : Predicting which type of clothing based on pictures. What i lea
 Pokeproject : Building a pokemon text game. What i learned: <b>Object-oriented programming</b>
 
 Currently learning : Flask
+
 Wanting to learn : Dash, Django
