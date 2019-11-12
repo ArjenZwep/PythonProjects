@@ -1,6 +1,6 @@
 # PythonProjects
 
-All the projects made to learn and master python. This includes mostly scripting, data cleaning, data analytics, machine learning.
+All the projects made to learn and master python (The skills learned are in bold). This includes mostly scripting, data cleaning, data analytics, machine learning.
 
 Here you can read what i learned and used for each project
 
